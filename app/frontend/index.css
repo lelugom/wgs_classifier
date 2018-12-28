@@ -1,0 +1,57 @@
+body {
+  background-color: #f3f3f3;
+  font-size: 1.6em;
+  font-family: "Comic Sans MS", sans-serif;
+  text-align: justify;
+}
+.console {
+  color: white;
+  background-color: #300A24;
+}
+.mainPanel{
+  text-align: left;
+  margin-top: 150px;
+  margin-bottom: 150px;
+  padding: 10px;
+}
+.mainPane{
+  text-align: left;
+  margin-top: 60px;
+  margin-bottom: 150px;
+  padding: 10px;
+}
+.centerBox {
+  background-color: white;
+  opacity: 0.9;
+  padding: 10px;
+  text-align: center;
+}
+.leftBox {
+  background-color: white;
+  opacity: 0.9;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.alertBox {
+  margin-top: 50px;
+  padding: 10px;
+  text-align: center;
+}
+.post {
+  background-color: white;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  text-align: left;
+  padding: 10px;
+}
+.table{
+  background-color: white;
+  opacity: 0.9;
+}
+.btn{
+  margin: 10px;
+}
+#fileInput{
+  margin: auto;
+  padding: 10px;
+}
